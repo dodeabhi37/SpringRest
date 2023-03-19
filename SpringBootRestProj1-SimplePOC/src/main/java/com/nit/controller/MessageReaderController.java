@@ -21,7 +21,7 @@ public class MessageReaderController {
 			body="Good Morning";
 		}
 		else if(hour<16) {
-			body="Good AfterNoon";
+			body="Good AfterNoon...........................";
 		}
 		else if(hour<20) {
 			body="Good Evening";
